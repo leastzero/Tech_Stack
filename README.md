@@ -1,5 +1,5 @@
-# CHOI SOYEONG 😉
-![SOYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=leastzero&show_icons=true&theme=tokyonight)
+# CHOI SOYEONG 😉🌱
+![SOYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=leastzero&show_icons=true&theme=dark)
 
 # Tech_Stack 💪
 ### Platforms & Languages
